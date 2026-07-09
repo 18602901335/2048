@@ -1,0 +1,18 @@
+{
+    "name": "2048",
+    "short_name": "2048",
+    "description": "经典 2048 数字游戏 — 可切换主题、网格大小和音效",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#faf8ef",
+    "theme_color": "#faf8ef",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23edc22e'/><text x='50' y='65' text-anchor='middle' font-size='50' font-weight='bold' fill='%23f9f6f2' font-family='Arial'>2048</text></svg>",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
