@@ -8,7 +8,7 @@ const ThemeManager = {
         classic: {
             '--bg': '#fafbf5',
             '--board-bg': '#72777a',
-            '--cell-bg': 'rgba(114,119,122,0.45)',
+            '--cell-bg': 'rgba(220,216,210,0.55)',
             '--text': '#2b3439',
             '--text-light': '#fefef2',
             '--text-dark': '#fefef2',
